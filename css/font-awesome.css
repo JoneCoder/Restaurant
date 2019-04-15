@@ -1,0 +1,35 @@
+@font-face{
+    font-family:bold;
+    src:url("../fonts/leaguegothic-regular-webfont.woff");
+}
+.bold{
+    font-family:bold;
+}
+@font-face{
+    font-family:loved;
+    src:url("../fonts/lovedbytheking-webfont.woff");
+}
+.loved{
+    font-family:loved;
+}
+@font-face{
+    font-family:ruda;
+    src:url("../fonts/ruda-regular-webfont .woff");
+}
+.ruda{
+    font-family:ruda;
+}
+@font-face{
+    font-family:amaticsc-bold;
+    src:url("../fonts/amaticsc-bold-webfont.woff");
+}
+.amaticsc-bold{
+    font-family:amaticsc-bold;
+}
+@font-face{
+    font-family:amaticsc;
+    src:url("../fonts/amaticsc-regular-webfont.woff");
+}
+.amaticsc{
+    font-family:amaticsc;
+}
